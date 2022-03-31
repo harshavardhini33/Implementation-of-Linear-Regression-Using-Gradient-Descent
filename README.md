@@ -18,7 +18,6 @@ To write a program to implement the linear regression using gradient descent.
 ```
 ## Program:
 ```python
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: Harshavardhini M
 RegisterNumber: 212221240015
@@ -57,7 +56,7 @@ plt.title("Study hours vs. Scores")
 plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
-*/
+
 ```
 
 ## Output:
